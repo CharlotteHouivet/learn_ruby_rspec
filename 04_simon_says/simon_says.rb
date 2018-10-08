@@ -7,7 +7,7 @@ def shout (a)
 end
 
 def repeat (a, b = 2) 				#où a est le mot et b le nombre de répétition
-	return ((a + " ") * b).rstrip
+	return ((a + " ") * b).rstrip		#rstrip permet de supprimer les espaces
 end
 
 def start_of_word(word, x)
