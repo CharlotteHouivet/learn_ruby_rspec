@@ -11,3 +11,4 @@ end
 
 
 #.round(x) Pour arrondir à x décimales
+# .to_f pour convertir en float (à cause des décimales)
