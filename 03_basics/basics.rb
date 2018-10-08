@@ -23,6 +23,7 @@ end
 #Le ! permet de modifier l'objet original. Sans le ! on n'ilmprime que
 #la copie modifiée. L'objet est donc changé définitivement. Aussi 
 #appelée "destructive method".
+#Permet de forcer mais à éviter.
 
 
 def array_42(array)
